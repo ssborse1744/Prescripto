@@ -1,2 +1,3 @@
-# Prescripto
-This full-stack appointment booking system offers three authentication levels: Patients can log in, book, and manage appointments; Doctors can view schedules, earnings, and update profiles; Admins can manage appointments and doctor profiles. Integrated payment gateways enable secure online fee payments, streamlining healthcare operations.
+This full stack appointment booking system can be used by a doctor or a hospital. Because in this project we have created 3 level of authentication. 1st one is for Patients, so that patient can login on the website, book appointment with doctor and manage the booked appointment. 2nd one is doctor login, so that doctor can login and check the appointment and their earning. Doctor can update their profile also from dashboard. 3rd one is Admin Dashboard where admin can manages the appointment and admin can also manage the doctor profile.
+
+In this full stack application we have integrated the online payment gateways so that user can pay the appointment fee online on this website.
